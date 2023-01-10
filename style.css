@@ -12,7 +12,7 @@ body {
 nav {
   list-style-type: none;
   position: fixed;
-  background-color: white;
+  background-color: purple;
   width: 500%
   top: 0;
   left: 0;
@@ -41,7 +41,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: purple;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
